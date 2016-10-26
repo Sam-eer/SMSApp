@@ -16,7 +16,7 @@ Folder contains-
 app.zip- contains app folder of android studio project
 others.zip- contains the rest of the files of studio project
 
-Extract both zip files in same folder with main folder name as SMSApp to import this project in Android studio
+Extract both zip files in same folder with main folder name as SMSApp2 to import this project in Android studio
 
 
 
